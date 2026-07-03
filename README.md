@@ -28,15 +28,17 @@
 </p>
 
 ---
+### 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaqper&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
+</p>
 
+---
 ### 📫 Contacto
 
 <p align="left">
   <a href="mailto:tu_email@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
