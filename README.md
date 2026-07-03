@@ -1,16 +1,50 @@
-# Hola, me llamo Joaquín
+<h1 align="center">¡Hola! 👋 Bienvenido/a a mi perfil</h1>
 
-<!--
-**joaqper/joaqper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudiante de <b>2º de DAM</b> (Desarrollo de Aplicaciones Multiplataforma) 🎓
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 💻 Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 🌱 Ampliando conocimientos constantemente en desarrollo web y backend
+- 🗣️ Nivel de inglés avanzado, actualmente preparando el **C1**
+- 📫 ¡No dudes en contactarme si quieres colaborar en algún proyecto!
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="left">
+  <a href="mailto:tu_email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
