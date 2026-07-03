@@ -9,9 +9,8 @@
 ### 🚀 Sobre mí
 
 - 💻 Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- 🌱 Ampliando conocimientos constantemente en desarrollo web y backend
+- 🌱 Ampliando conocimientos constantemente
 - 🗣️ Nivel de inglés avanzado, actualmente preparando el **C1**
-- 📫 ¡No dudes en contactarme si quieres colaborar en algún proyecto!
 
 ---
 
