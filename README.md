@@ -1,16 +1,8 @@
-<h1 align="center">¡Hola! 👋 Bienvenido/a a mi perfil</h1>
+<h1 align="center">Bienvenido/a a mi perfil</h1>
 
 <p align="center">
-  Estudiante de <b>2º de DAM</b> (Desarrollo de Aplicaciones Multiplataforma) 🎓
+  Estudiante de <b>2º de DAM</b> (Desarrollo de Aplicaciones Multiplataforma)
 </p>
-
----
-
-### 🚀 Sobre mí
-
-- 💻 Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- 🌱 Ampliando conocimientos constantemente
-- 🗣️ Nivel de inglés avanzado, actualmente preparando el **C1**
 
 ---
 
