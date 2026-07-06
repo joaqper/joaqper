@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+###  Tecnologías y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
@@ -21,10 +21,10 @@
 
 ---
 
-### 📫 Contacto
+###  Contacto
 
 <p align="left">
-  <a href="mailto:tu_email@ejemplo.com">
+  <a href="mailto:joaquinperez32a@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
