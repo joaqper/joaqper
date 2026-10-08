@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido/a a mi perfil</h1>
 
 <p align="center">
-  Estudiante de <b>2º de DAM</b> (Desarrollo de Aplicaciones Multiplataforma)
+  Estudiante de <b>2º de DAM</b>
 </p>
 
 ---
